@@ -6,7 +6,7 @@ body {
   /* align-content: center; */
   font-family: Georgia, "Times New Roman", Times, serif;
   margin-top: 10px;
-  margin-left: 480px;
+  text-align: center;
   font-size: 60px;
   color: #cecab7;
 }
